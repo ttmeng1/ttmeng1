@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttmeng1
 - 👀 I’m interested in the intersections between technology and medicine, specifically the applications of AI/ML
-- 🌱 I’m currently a freshman at UNC Chapel Hill studying Computer Science and Neuroscience
+- 🌱 I’m currently a sophomore at UNC Chapel Hill studying Computer Science and Applied Mathematics
 - 📫 How to reach me: ttmeng@ad.unc.edu
 - 😄 Pronouns: she/her
 
