@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ttmeng1
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently a junior at UNC Chapel Hill studying Computer Science and Applied Mathematics
-- 📫 How to reach me: ttmeng@ad.unc.edu
+- 📫 How to reach me: ttmeng@unc.edu
 - 😄 Pronouns: she/her
 
 <!---
